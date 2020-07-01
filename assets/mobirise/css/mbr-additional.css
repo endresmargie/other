@@ -748,7 +748,7 @@ section.lazy-placeholder:after {
 .cid-s3c7z9epEe {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/brown-framed-eyeglasses-905163-2000x1307.jpg");
 }
 .cid-s3c7z9epEe .mbr-section-btn > * {
   margin: 0;
@@ -812,6 +812,9 @@ section.lazy-placeholder:after {
   text-decoration: line-through;
   color: #767676;
 }
+.cid-s3c7z9epEe H2 {
+  color: #be83d4;
+}
 .cid-s3c97504mM {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -838,65 +841,6 @@ section.lazy-placeholder:after {
 .cid-s3c8Rqgj2D .card-img span {
   font-size: 96px;
   color: #149dcc;
-}
-.cid-s3oDCZwGZE {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s3oDCZwGZE .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-s3oDCZwGZE .step {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
-  border-radius: 50%;
-  border: 2px solid #efefef;
-}
-@media (max-width: 767px) {
-  .cid-s3oDCZwGZE .step {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
-}
-.cid-s3oDCZwGZE .separline {
-  position: relative;
-}
-.cid-s3oDCZwGZE .separline:after {
-  top: 68px;
-  left: 30px;
-  position: absolute;
-  content: "";
-  width: 2px;
-  height: calc(100% - (32px + 4px) * 2);
-  background-color: #efefef;
-}
-@media (max-width: 767px) {
-  .cid-s3oDCZwGZE .separline:after {
-    top: 52px;
-    left: 22px;
-    height: calc(100% - 56px);
-  }
-}
-.cid-s3oDCZwGZE .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-s3oDCZwGZE .media-block {
-    padding-right: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s3oDCZwGZE .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-bottom: 2rem;
-  }
 }
 .cid-s2ZMWJ7psQ {
   padding-top: 60px;
@@ -941,50 +885,6 @@ section.lazy-placeholder:after {
 }
 .cid-s2ZMWJ7psQ .panel-text {
   text-align: center;
-}
-.cid-s3oDWxNdsK {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s3oDWxNdsK h2 {
-  margin-bottom: 0;
-}
-.cid-s3oDWxNdsK h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  width: 80%;
-}
-.cid-s3oDWxNdsK p {
-  color: #767676;
-  margin-bottom: 0;
-}
-.cid-s3oDWxNdsK .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #ffffff;
-  position: relative;
-  justify-content: unset;
-}
-.cid-s3oDWxNdsK .card-wrapper .card-box {
-  padding: 2rem 1rem;
-  width: 100%;
-}
-.cid-s3oDWxNdsK .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.cid-s3oDWxNdsK .card-wrapper .card-box .bottom-line {
-  width: 70%;
-}
-@media (max-width: 767px) {
-  .cid-s3oDWxNdsK .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-s3oDWxNdsK .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
-  }
 }
 .cid-s3p97roVSd .navbar {
   background: #ffffff;
@@ -2113,7 +2013,7 @@ section.lazy-placeholder:after {
 .cid-s3pbwVVqab {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/content-pixie-rxicjubguqe-unsplash-2000x1333.jpg");
 }
 .cid-s3pbwVVqab .mbr-iconfont {
   font-size: 48px;
@@ -4796,6 +4696,15 @@ section.lazy-placeholder:after {
   text-decoration: line-through;
   color: #767676;
 }
+.cid-s3tW34lkya {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s3tW34lkya .mbr-text,
+.cid-s3tW34lkya blockquote {
+  color: #767676;
+}
 .cid-s2IPVz1IxK {
   padding-top: 0px;
   padding-bottom: 135px;
@@ -5392,8 +5301,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-s3oHmS5aDc {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #be83d4;
 }
 .cid-s3oHmS5aDc .line {
